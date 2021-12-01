@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MKR_oop", "MKR_oop\MKR_oop.csproj", "{CD64F4E1-2D64-49AB-A539-E06E204E7ECC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD64F4E1-2D64-49AB-A539-E06E204E7ECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD64F4E1-2D64-49AB-A539-E06E204E7ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD64F4E1-2D64-49AB-A539-E06E204E7ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD64F4E1-2D64-49AB-A539-E06E204E7ECC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0F0E49E-008B-400F-8F86-3FC4C0A43FF6}
+	EndGlobalSection
+EndGlobal
